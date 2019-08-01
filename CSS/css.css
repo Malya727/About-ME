@@ -1,0 +1,49 @@
+body
+{
+    width: 80%;
+    margin: auto;
+}
+
+#p_name
+{
+    text-align: center;
+}
+
+hr
+{
+    background-color: rebeccapurple;
+    height: 4px; 
+}
+
+#header
+{
+    width: 100%;
+    background-color: grey;
+}
+
+.tab
+{
+    border: 1px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%
+}
+
+table th
+{
+    background-color: green;
+}
+
+td
+{
+    border-bottom: solid 1px darkcyan
+}
+
+th
+{
+    color: aliceblue;
+}
+#adress
+{
+    font-size: 10px;
+}
